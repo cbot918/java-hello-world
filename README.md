@@ -1,6 +1,6 @@
 # Java Hello World
 
-0. 安裝一下 JDK8, JRE8 (有可能這兩個是一次裝好), 設定一下 JAVA_HOME (可參考網路教學)
+0. 安裝一下 JDK8, JRE8 (有可能這兩個是一次裝好, 或是 java11 java17 應該都 ok, 反正先有再說 xD), 設定一下 JAVA_HOME (可參考網路教學)
 
    0.1 `javac -version` 看一下 編譯器版本
 
